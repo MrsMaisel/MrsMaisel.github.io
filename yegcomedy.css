@@ -40,7 +40,7 @@
 		.text a.description{
 		font-family:"Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
 		padding:5px;
-		font-size: 18px;
+		font-size: 25px;
 		display:block;
 		color:white;
 		}
@@ -139,7 +139,7 @@ body{
 	.text a.description{
 		font-family:"Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
 		padding:5px;
-		font-size: 10px;
+		font-size: 20px;
 		display:block;
 		color:white;
 		;
