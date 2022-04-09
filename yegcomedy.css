@@ -19,7 +19,7 @@
 	font-size: 15px;
 	text-align: left;
 	color: white;
-	max-height:40px;
+	max-height:60px;
 	}
 	.announcements a.title{
 		font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", "sans-serif";
@@ -102,7 +102,7 @@ body{
 		font-size: 15px;
 		text-align: left;
 		color: white;
-		max-height:40px;
+		max-height:60px;
 		}
 	
 	.header a.active{
