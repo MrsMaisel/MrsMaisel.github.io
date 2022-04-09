@@ -13,12 +13,13 @@
 	display:flex;
 	flex-direction: column;
 	justify-content: space-between;
-    background-color: #6B0504;
-    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+   	background-color: #6B0504;
+    	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
 	padding: 25px;
 	font-size: 15px;
 	text-align: left;
 	color: white;
+	max-height:40px;
 	}
 	.announcements a.title{
 		font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", "sans-serif";
@@ -101,6 +102,7 @@ body{
 		font-size: 15px;
 		text-align: left;
 		color: white;
+		max-height:40px;
 		}
 	
 	.header a.active{
