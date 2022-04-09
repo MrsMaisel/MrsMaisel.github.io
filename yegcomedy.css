@@ -1,4 +1,4 @@
-@media(min-width: 768px){
+@media(min-width: 1100px){
 .header{
 	overflow:hidden;
     background-color: #6B0504;
@@ -80,7 +80,7 @@ body{
 	}
 }
 
-@media ( max-width : 768px ){
+@media ( max-width : 1100px ){
 	.header{
 		overflow:hidden;
     	background-color: #6B0504;
