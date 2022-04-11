@@ -167,8 +167,9 @@ body{
 @font-face{
 	font-family: Tonight;
 	src: url("../MrsMaisel/MrsMaisel.github.io/Tonight.tff") format(truetype);
-	src: url("../MrsMaisel/MrsMaisel.github.io/Tonight.eot");
-	src: url("../MrsMaisel/MrsMaisel.github.io/Tonight.woff") format(woff);
-	src: url("../MrsMaisel/MrsMaisel.github.io/Tonight.woff2") format(woff2);
-	src: url("../MrsMaisel/MrsMaisel.github.io/Tonight.svg#Tonight") format(svg);
+	     url("../MrsMaisel/MrsMaisel.github.io/Tonight.eot");
+	     url("../MrsMaisel/MrsMaisel.github.io/Tonight.woff") format(woff);
+	     url("../MrsMaisel/MrsMaisel.github.io/Tonight.woff2") format(woff2);
+	     url("../MrsMaisel/MrsMaisel.github.io/Tonight.svg#Tonight") format(svg);
+	     local("Tonight");
 }
