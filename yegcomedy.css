@@ -1,13 +1,13 @@
 @font-face{
-	font-family: 'Tonight';
-	src: url("Tonight.tff") format("truetype");
+	font-family: Tonight;
+	src: url('Tonight.tff') format('truetype');
 }
 
 @media(min-width: 1100px){
 .header{
 	overflow:hidden;
     background-color: #6B0504;
-    font-family: 'Tonight';
+    font-family: Tonight;
 	margin: 0px;
 	padding: 40px;
 	font-size: 75px;
@@ -27,7 +27,7 @@
 	max-height:200px;
 	}
 	.announcements a.title{
-		font-family: 'Tonight';
+		font-family: Tonight;
 		font-size: 40px;
 		color:white;
 		padding:25px;
@@ -90,7 +90,7 @@ body{
 	.header{
 		overflow:hidden;
     	background-color: #6B0504;
-   		font-family: 'Tonight';
+   		font-family: Tonight;
 		margin: 0px;
 		padding: 25px;
 		font-size: 45px;
@@ -125,7 +125,7 @@ body{
 	}
 	
 		.announcements a.title{
-			font-family: 'Tonight';
+			font-family: Tonight;
 			font-size: 40px;
 			color:white;
 			padding:25px;
