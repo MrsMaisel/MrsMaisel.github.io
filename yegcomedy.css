@@ -167,4 +167,7 @@ body{
 @font-face{
 	font-family: Tonight;
 	src: url("Tonight.ttf") format(truetype);
+	src: url("Tonight.eot");
+	src: url("Tonight.woff") format(woff);
+	src: url("Tonight.svg") format(svg);
 }
