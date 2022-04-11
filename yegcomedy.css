@@ -2,10 +2,10 @@
 .header{
 	overflow:hidden;
     background-color: #6B0504;
-    font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", "sans-serif";
+    font-family: Toight;
 	margin: 0px;
-	padding: 10px;
-	font-size: 55px;
+	padding: 40px;
+	font-size: 75px;
 	text-align: left;
 	color: white;}
 	
@@ -22,15 +22,15 @@
 	max-height:200px;
 	}
 	.announcements a.title{
-		font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", "sans-serif";
-		font-size: 35px;
+		font-family: Tonight;
+		font-size: 40px;
 		color:white;
 		padding:5px;
 		display:block;
 	}
 	.announcements a.shows{
 		font-family:"Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
-		padding:5px;
+		padding:25px;
 		font-size: 30px;
 		display:block;
 		color:white;
@@ -85,10 +85,10 @@ body{
 	.header{
 		overflow:hidden;
     	background-color: #6B0504;
-   		font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", "sans-serif";
+   		font-family: Tonight;
 		margin: 0px;
-		padding: 5px;
-		font-size: 35px;
+		padding: 25px;
+		font-size: 45px;
 		text-align: center;
 		color: white;}
 	
@@ -120,10 +120,10 @@ body{
 	}
 	
 		.announcements a.title{
-			font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", "sans-serif";
-			font-size: 30px;
+			font-family: Tonight;
+			font-size: 40px;
 			color:white;
-			padding:5px;
+			padding:25px;
 			display:block;
 			text-decoration: none;}
 			
@@ -162,4 +162,9 @@ body{
 		background-color: #DAA520;
 		margin: 0px;
 	}
+}
+
+@font-face{
+	font-family: Tonight;
+	src: url("Tonight.ttf") format(truetype);
 }
