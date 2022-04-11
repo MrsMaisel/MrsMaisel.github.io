@@ -1,11 +1,10 @@
 @font-face{
 	font-family: Tonight;
-	src: url("MrsMaisel/MrsMaisel.github.io/Tonight.tff") format(truetype),
-	     url("MrsMaisel/MrsMaisel.github.io/Tonight.eot"),
-	     url("MrsMaisel/MrsMaisel.github.io/Tonight.woff") format(woff),
-	     url("MrsMaisel/MrsMaisel.github.io/Tonight.woff2") format(woff2),
-	     url("MrsMaisel/MrsMaisel.github.io/Tonight.svg#Tonight") format(svg),
-	     local("Tonight");
+	src: url("../../MrsMaisel.github.io/Tonight.tff") format(truetype),
+	     url("../../MrsMaisel.github.io/Tonight.eot"),
+	     url("../../MrsMaisel.github.io/Tonight.woff") format(woff),
+	     url("../../MrsMaisel.github.io/Tonight.woff2") format(woff2),
+	     url(../../"MrsMaisel.github.io/Tonight.svg#Tonight") format(svg);
 }
 
 @media(min-width: 1100px){
