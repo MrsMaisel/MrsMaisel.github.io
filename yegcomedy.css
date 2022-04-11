@@ -4,7 +4,7 @@
 	     url("/MrsMaisel.github.io/Tonight.eot"),
 	     url("/MrsMaisel.github.io/Tonight.woff") format(woff),
 	     url("/MrsMaisel.github.io/Tonight.woff2") format(woff2),
-	     url(/"MrsMaisel.github.io/Tonight.svg#Tonight") format(svg);
+	     url("/MrsMaisel.github.io/Tonight.svg#Tonight") format(svg);
 }
 
 @media(min-width: 1100px){
