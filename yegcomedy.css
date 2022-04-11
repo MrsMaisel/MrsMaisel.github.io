@@ -169,5 +169,6 @@ body{
 	src: url("Tonight.ttf") format(truetype);
 	src: url("Tonight.eot");
 	src: url("Tonight.woff") format(woff);
+	src: url("Tonight.woff2") format(woff2);
 	src: url("Tonight.svg") format(svg);
 }
