@@ -3,6 +3,11 @@
 	src: url('Tonight.ttf') format('truetype');
 }
 
+@font-face{
+	font-family: NightVibes;
+	src: url('NightVibes.ttf') format('truetype');
+}
+
 @media(min-width: 1100px){
 .header{
 	overflow:hidden;
@@ -10,7 +15,7 @@
     font-family: Tonight;
 	margin: 0px;
 	padding: 40px;
-	font-size: 75px;
+	font-size: 90px;
 	text-align: left;
 	color: white;}
 	
@@ -27,7 +32,7 @@
 	max-height:200px;
 	}
 	.announcements a.title{
-		font-family: Tonight;
+		font-family: NightVibes;
 		font-size: 40px;
 		color:white;
 		padding:25px;
@@ -93,7 +98,7 @@ body{
    		font-family: Tonight;
 		margin: 0px;
 		padding: 25px;
-		font-size: 45px;
+		font-size: 60px;
 		text-align: center;
 		color: white;}
 	
@@ -125,7 +130,7 @@ body{
 	}
 	
 		.announcements a.title{
-			font-family: Tonight;
+			font-family: NightVibes;
 			font-size: 40px;
 			color:white;
 			padding:25px;
