@@ -33,7 +33,7 @@
 	}
 	.announcements a.title{
 		font-family: NightVibes;
-		font-size: 40px;
+		font-size: 80px;
 		color:white;
 		padding:25px;
 		display:block;
@@ -131,7 +131,7 @@ body{
 	
 		.announcements a.title{
 			font-family: NightVibes;
-			font-size: 40px;
+			font-size: 80px;
 			color:white;
 			padding:25px;
 			display:block;
