@@ -51,6 +51,7 @@
 		color:white;
 		vertical-align: text-top;
 		text-decoration: none;
+		text-align:left;
 		
 	}
 		.text a.description{
@@ -59,6 +60,7 @@
 		font-size: 25px;
 		display:block;
 		color:white;
+		text-align:end;
 		}
 	.text{
 		float:right;
@@ -149,6 +151,7 @@ body{
 		display:block;
 		color:white;
 		vertical-align: text-top;
+		text-align:center;
 			
 			
 		
@@ -159,12 +162,13 @@ body{
 		font-size: 20px;
 		display:block;
 		color:white;
+		text-align:center;
 		;
 		
 	}
 	
 	.text{
-		float:right;
+		float:center;
 	}
 	img{
 		margin: 5px;
